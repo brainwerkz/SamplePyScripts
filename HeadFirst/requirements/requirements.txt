@@ -1,0 +1,16 @@
+beautifulsoup4
+Django
+Fabric
+Jinja2
+PyYAML
+Pygments
+SQLAlchemy
+South
+oauth2
+LDAP3
+mysql-client
+numpy
+scipy
+scrappy
+
+

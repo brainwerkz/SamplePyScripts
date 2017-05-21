@@ -1,0 +1,21 @@
+beautifulsoup4
+Django
+Fabric
+Jinja2
+PyYAML
+Pygments
+SQLAlchemy
+South
+live-sports-feed
+beautifulscraper
+sqlalchemy
+numpy
+routerchecker
+# mysql-connector
+mysql-replication
+mysql_dump
+whatportis
+mysql-connector-python
+databaseadmin
+mysqlclient
+supersight
