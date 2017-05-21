@@ -9,8 +9,8 @@
 
 from twilio.rest import Client
 
-account_sid = "AC949bdf062f5c1e54fc6bc846b994c18e";
-auth_token = "670f4d55115f3de01b29cad2ca9b8437";
+account_sid = "ENTER_CORRECT_SID";
+auth_token = "ENTER_CORRECT_TOKEN";
 
 client = Client(account_sid, auth_token)
 

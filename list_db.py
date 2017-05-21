@@ -5,7 +5,7 @@ import MySQLdb
 connection = MySQLdb.connect(
                 host = 'localhost',
                 user = 'john',
-                passwd = 'JEllen69!')  # create the connection
+                passwd = '***')  # create the connection
 
 cursor = connection.cursor()     # get the cursor
 
