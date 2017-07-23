@@ -2,10 +2,11 @@
 
 import MySQLdb
 
+password = input("Password?")
 connection = MySQLdb.connect(
                 host = 'localhost',
                 user = 'john',
-                passwd = '***')  # create the connection
+                passwd = password # create the connection
 
 cursor = connection.cursor()     # get the cursor
 

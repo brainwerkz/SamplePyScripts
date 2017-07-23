@@ -22,5 +22,5 @@ password = input('Please enter your password:')
 
 ssh = paramiko.SSHClient()
 #ssh.connect(server=host, username=username, password=password)
-ssh_stdin, ssh_stdout, ssh_stderr = ssh.exec_command(pwd + "/n")
+#ssh_stdin, ssh_stdout, ssh_stderr = ssh.exec_command(pwd + "/n")
 

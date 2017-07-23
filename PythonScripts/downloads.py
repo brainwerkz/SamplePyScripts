@@ -8,7 +8,7 @@ br = mechanize.Browser()
 #and if you need to fill out forms with passwords.
 
 # Open your site
-br.open('http://www.russianamerica.com/common/gfx/users/private-1451~43051')
+br.open('http://<fill_in_url>')
 
 f=open("source.html","w")
 f.write(br.response().read()) #can be helpful for debugging maybe

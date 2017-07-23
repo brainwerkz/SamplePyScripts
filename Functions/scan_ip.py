@@ -4,7 +4,7 @@
 # http://www.procurity.wordpress.com
 
 import socket, os, re
-from os import
+#from os import
 
 s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 s.connect(('google.com', 0))

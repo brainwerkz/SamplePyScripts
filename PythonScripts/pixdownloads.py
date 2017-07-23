@@ -11,7 +11,7 @@ from BeautifulSoup import BeautifulSoup # for HTML parsing
 urlList = []
 
 # recursively download images starting from the root URL
-def downloadImages(0, 'www.russianamerica.com/common/gfx/users/private-1451~43051'): # the root URL is level 0
+def downloadImages(0, '<fillinurl'): # the root URL is level 0
     # do not go to other websites
     global website
     netloc = urlparse.urlsplit(url).netloc.split('.')

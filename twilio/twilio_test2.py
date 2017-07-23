@@ -11,4 +11,4 @@ client = Client("ENTER_CORRECT_INFO", "ENTER_CORRECT_INFO")
 # account to send SMS to any phone number
 client.messages.create(to="+15127996965", from_="+17372104374", 
                        body="Hello from your hubby John. This is one of the new things I've been working on today, after the gym AND nebulizing Marta! LU ~Me",
-                       media_url="https://c1.staticflickr.com/3/2899/14341091933_1e92e62d12_b.jpg")
+                       media_url="<Insert_URL_To_Photo>")
