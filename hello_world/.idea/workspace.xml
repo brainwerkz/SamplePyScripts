@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2ea63eb-65b9-4d5b-9833-38ae06fc6c98" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/hello_world.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hello_world.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ConditionalIFELSE.py" afterPath="$PROJECT_DIR$/../ConditionalIFELSE.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Functions/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Functions/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Functions/scan_ip.py" afterPath="$PROJECT_DIR$/../Functions/scan_ip.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LaunchWebBrowser/launchweb.py" afterPath="$PROJECT_DIR$/../LaunchWebBrowser/launchweb.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PythonScripts/connect_db.py" afterPath="$PROJECT_DIR$/../PythonScripts/connect_db.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PythonScripts/downloads.py" afterPath="$PROJECT_DIR$/../PythonScripts/downloads.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PythonScripts/pixdownloads.py" afterPath="$PROJECT_DIR$/../PythonScripts/pixdownloads.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PythonScripts/second_dbconnect.py" afterPath="$PROJECT_DIR$/../PythonScripts/second_dbconnect.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PythonScripts/switch_connect.py" afterPath="$PROJECT_DIR$/../PythonScripts/switch_connect.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WebDownloads.py" afterPath="$PROJECT_DIR$/../WebDownloads.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../list_db.py" afterPath="$PROJECT_DIR$/../list_db.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../list_db_tables.py" afterPath="$PROJECT_DIR$/../list_db_tables.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ssh_connections/ssh_linode.py" afterPath="$PROJECT_DIR$/../ssh_connections/ssh_linode.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../twilio/twilio_test.py" afterPath="$PROJECT_DIR$/../twilio/twilio_test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../twilio/twilio_test2.py" afterPath="$PROJECT_DIR$/../twilio/twilio_test2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../untitled/input.py" afterPath="$PROJECT_DIR$/../untitled/input.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../untitled/test123.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
